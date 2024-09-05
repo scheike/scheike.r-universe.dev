@@ -1,0 +1,11 @@
+[
+  {
+  "package": "timereg",
+  "url": "https://github.com/scheike/timereg"
+},
+  {
+  "package": "HaploSurvival",
+  "url": "https://github.com/scheike/HaploSurvival"
+}
+  
+]
