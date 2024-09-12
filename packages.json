@@ -4,10 +4,6 @@
   "url": "https://github.com/scheike/timereg"
 },
   {
-  "package": "HaploSurvival",
-  "url": "https://github.com/scheike/HaploSurvival"
-},
-  {
   "package": "crskdiag",
   "url": "https://github.com/scheike/crskdiag"
 }
