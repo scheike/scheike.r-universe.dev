@@ -6,6 +6,9 @@
   {
   "package": "crskdiag",
   "url": "https://github.com/scheike/crskdiag"
+},
+  {
+  "package": "goftte",
+  "url": "https://github.com/scheike/goftte"
 }
-  
 ]
